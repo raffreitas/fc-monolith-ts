@@ -1,0 +1,23 @@
+{
+  "name": "fc-monolith-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raffreitas/fc-monolith-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raffreitas/fc-monolith-ts/issues"
+  },
+  "homepage": "https://github.com/raffreitas/fc-monolith-ts#readme",
+  "description": "",
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
